@@ -1,0 +1,18 @@
+Itens necessários:
+-Navbar com 3 botões: início, serviços e contato;
+-Slide de fotos: quantidade livre;
+-História (texto e foto);
+-Serviços: 6 cards;
+-Formulário.
+
+Tamanhos (px):
+logo: 80x80
+slide de fotos: 1400x500
+foto lado texto: 600x400
+cards: 1280x720:
+foto pag/ separada: 1920x500
+
+nav
+container
+cada item = row
+row dentro coluna
